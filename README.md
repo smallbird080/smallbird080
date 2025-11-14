@@ -3,7 +3,8 @@
 <img src="https://media.tenor.com/HvJ48-NOlfIAAAAj/teto-tetoris.gif"/>
 
 ## ✏️ Education
-**B.S. (Undergraduate):** Hanyang University (Seoul), Department of Computer Science: 2023.03 - Present
+**B.S. (Undergraduate):** Hanyang University (Seoul), Department of Computer Science
+- 2023.03 - Present
 
 ## 🔎 Currently Researching
 - Automating Linux syscall specification generation
